@@ -1,0 +1,18 @@
+{
+    "editor.wordWrap": "on",
+    "git.autofetch": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\USER\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\USER\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+    },
+    "vscode-edge-devtools.mirrorEdits": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "remote.SSH.remotePlatform": {
+        "jenkins-ansible": "linux"
+    }
+}

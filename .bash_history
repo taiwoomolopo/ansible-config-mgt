@@ -186,3 +186,4 @@ ssh ec2-user@10.0.14.60
 ssh ec2-user@10.0.10.176
 ansible-playbook -i /home/ubuntu/ansible-config-mgt/inventory/uat.yml /home/ubuntu/ansible-config-mgt/playbooks/site.yml
 ssh-add -l
+sudo su
