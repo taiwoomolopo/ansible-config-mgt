@@ -1,0 +1,13 @@
+[2022-07-02 16:49:09.473] [exthost] [info] Extension host with pid 1509 started
+[2022-07-02 16:49:09.488] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/d165b1a35fe49e71ebb7396c0c10341c/vscode.lock': Lock acquired.
+[2022-07-02 16:49:10.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-02 16:49:10.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-02 16:49:10.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-02 16:49:10.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-02 16:49:10.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-02 16:49:11.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-02 16:49:11.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-02 16:49:11.563] [exthost] [info] Eager extensions activated
+[2022-07-02 17:31:26.047] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-02 17:31:26.048] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/d165b1a35fe49e71ebb7396c0c10341c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-02 17:31:26.059] [exthost] [info] Extension host with pid 1509 exiting with code 0
